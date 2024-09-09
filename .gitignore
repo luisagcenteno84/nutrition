@@ -1,0 +1,3 @@
+.venv/
+nutrition_app/nutrition_app/__pycache__/
+nutrition_app/nutrition_app/migrations/__pycache__/
